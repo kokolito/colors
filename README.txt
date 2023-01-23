@@ -12,4 +12,7 @@ To deploy on netlify:
             git remote add origin https://github.com/kokolito/colors.git
             git branch -M main
             git push -u origin main
+    "Add new site" on netlify.
+    Go to the new website: https://venerable-bienenstitch-f6d8e7.netlify.app .
+
 
