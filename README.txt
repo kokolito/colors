@@ -15,6 +15,6 @@ To re-deploy:
         git add .
         git commit -m "blablabla"
         git status
-        GO ON netlify website for update.
+        git push.
 
 
